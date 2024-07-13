@@ -1,4 +1,4 @@
-# CSC221-swhite-GroupProject
+# CSC221-sarahjanewhite-GroupProject
 Group Project for CSC221 2024 SU
 
 __Owner:__ Sarah White (sjwhite1@my.waketech.edu)
