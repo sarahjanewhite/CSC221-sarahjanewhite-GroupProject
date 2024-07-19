@@ -7,4 +7,4 @@ __Project Description:__ Web Scraping project to gather data from the list of th
 
 __Webscraped URL:__ [ URL: https://en.m.wikipedia.org/wiki/List_of_best-selling_PlayStation_4_video_games ]
 
-__Collaborator:__ Nathan Wilson (nswilson@my.waketech.edu)
+__Collaborator:__ Nathan Wilson (nswilson@my.waketech.edu) **ACCEPTED**
